@@ -19,7 +19,4 @@ If it already exists, add link to page:
 
 ## Information to add
 
- - Personal webpage: 
- - Institution:
-
 Please add suggested information to include or update:
