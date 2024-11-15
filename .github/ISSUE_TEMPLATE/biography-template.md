@@ -27,7 +27,7 @@ Wikipedia has [notability criteria](https://en.wikipedia.org/wiki/Wikipedia:Nota
 - [ ] The person has held a distinguished professor appointment at a major institution of higher education and research, a named chair appointment that indicates a comparable level of achievement, or an equivalent position in countries where named chairs are uncommon.
 - [ ] The person has held a highest-level elected or appointed administrative post at a major academic institution or major academic society.
 - [ ] The person has had a substantial impact outside academia in their academic capacity.
-The person has been the head or chief editor of a major, well-established academic journal in their subject area.
+- [ ] The person has been the head or chief editor of a major, well-established academic journal in their subject area.
 
 ## Information to add
 
