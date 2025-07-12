@@ -9,3 +9,5 @@ Tracking tasks for Wikipedia edit-a-thon 13 July 2025, University of Glasgow
 [List of all suggestions](https://github.com/cplb/edit-a-thon/issues)
 
 [Project tracking board](https://github.com/users/cplb/projects/1)
+
+[Wikipedia team](https://en.wikipedia.org/wiki/User:CPLBerry#GR_Amaldi_edit-a-thon_2025)
